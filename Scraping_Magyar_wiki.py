@@ -25,3 +25,4 @@ def scrape_wiki_magyar():
 
 if __name__ == '__main__':
     scrape_wiki_magyar()
+    
